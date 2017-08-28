@@ -1,0 +1,60 @@
+{
+  "status": "SUCCESS",
+  "msg": {
+    "taskid": "qqq111",
+    "taskname": "task4",
+    "tasktype": "Task4",
+    "surveyid": "23",
+    "taskstatus": "active",
+    "steps": [
+      {
+        "stepid": "s1",
+        "stepname": "Shopping mall entrance",
+        "stepdesc": "someDescriptionHere",
+        "stepstatus": "active"
+      },
+      {
+        "stepid": "s2",
+        "stepname": "Shopping carts area",
+        "stepdesc": "someDescriptionHere",
+        "stepstatus": "active"
+      },
+      {
+        "stepid": "s3",
+        "stepname": "Fruits and vegetables",
+        "stepdesc": "someDescriptionHere",
+        "stepstatus": "active"
+      },
+      {
+        "stepid": "s4",
+        "stepname": "Wine area",
+        "stepdesc": "someDescriptionHere",
+        "stepstatus": "active"
+      },
+      {
+        "stepid": "s5",
+        "stepname": "Coffee",
+        "stepdesc": "someDescriptionHere",
+        "stepstatus": "active"
+      },
+      {
+        "stepid": "s6",
+        "stepname": "Fashion area",
+        "stepdesc": "someDescriptionHere",
+        "stepstatus": "active"
+      },
+      {
+        "stepid": "s7",
+        "stepname": "Toys",
+        "stepdesc": "someDescriptionHere",
+        "stepstatus": "active"
+      },
+      {
+        "stepid": "s8",
+        "stepname": "Washroom",
+        "stepdesc": "someDescriptionHere",
+        "stepstatus": "active"
+      }
+      ]
+  }
+}

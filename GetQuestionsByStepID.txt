@@ -1,0 +1,12 @@
+{
+  "status": "SUCCESS",
+  "msg": {
+    "stepid": "s1",
+    "questionType": "options",
+    "options": [
+        "1",
+        "2",
+        "3"
+      ]
+  }
+}

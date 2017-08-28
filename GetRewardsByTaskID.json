@@ -1,0 +1,28 @@
+{
+  "status": "SUCCESS",
+  "msg": {
+    "taskid": "qqq111",
+    "rewards": [
+      {
+        "rewardid": "r1",
+        "rewardtitle": "Reward1",
+        "type": "step",
+        "stepid": "s1",
+        "url": "http://www.google.com"
+      },
+      {
+        "rewardid": "r2",
+        "rewardtitle": "Reward2",
+        "type": "steps_completed",
+        "stepscount": 5,
+        "url": "http://www.google.com"
+      },
+      {
+        "rewardid": "r3",
+        "rewardtitle": "Reward3",
+        "type": "steps_completed",
+        "stepscount": 10,
+        "url": "http://www.google.com"
+      }
+      ]
+}
